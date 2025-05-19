@@ -116,6 +116,7 @@ Ensure correctness by testing all material stats and weapon calculations.
 ##  Sample Output
 
 -----FORGED ON FIRE-----
+
 Materials:
 1. Diamond
 2. Gold
