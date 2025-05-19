@@ -122,6 +122,7 @@ Materials:
 2. Gold
 3. Iron
 4. Wood
+
 Choose Material (1-4): 1
 
 Weapons:
@@ -131,6 +132,7 @@ Weapons:
 4. Claymore
 5. Ninjato
 6. Katana
+
 Choose a Weapon (1-6): 4
 
 Weapon Crafted:
